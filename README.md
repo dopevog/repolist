@@ -1,7 +1,7 @@
 # Repolist
 A cool website that lists your Repos and Projects!
 ## Usage
-First clone/fork the project. Then simply replace ```Dopevog``` with your uername everywhere in ```index.html```.
+First clone/fork the project. Then simply replace ```username``` or ```dopevog``` with your uername everywhere in ```index.html```.
 ```
 git clone https://github.com/dopevog/repolist.git
 ```
